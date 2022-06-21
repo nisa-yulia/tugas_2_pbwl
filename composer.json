@@ -1,0 +1,16 @@
+{
+    "name": "nisa/pln_nisa",
+    "description": "Tugas2_nisa",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "nisa\\PlnNisa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nisa"
+        }
+    ],
+    "require": {}
+}
